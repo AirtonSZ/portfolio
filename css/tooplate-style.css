@@ -14,7 +14,7 @@ body {
 }
 
 .full-screen {
-  padding: 8rem 0;
+  padding: 4rem 0;
 }
 
 .small-text {
@@ -136,6 +136,10 @@ b, strong {
 }
 .animated-item:nth-child(3n+3) {
   animation-delay: 4s;
+}
+
+.text-underline {
+  color: #51008a
 }
 
 @keyframes BottomTotop {
@@ -475,7 +479,8 @@ b, strong {
 }
 @media (max-width: 991px) {
   .full-screen {
-    padding-bottom: 4rem;
+    padding-bottom: 0rem;
+    padding-top: 2rem;
   }
 
   .color-mode {
@@ -520,10 +525,10 @@ b, strong {
 }
 @media (max-width: 580px) {
 	.animated-info {
-		min-width: 200px;
+		min-width: 320px;
 	}
   .animated-item {
-    font-size: 30px;
+    font-size: 38.4px;
   }
 
   .custom-btn-group {
