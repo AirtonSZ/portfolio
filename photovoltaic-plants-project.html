@@ -74,6 +74,23 @@ https://www.tooplate.com/view/2115-marvel
               The question was "How?". Then I started studying data engineering
             </p>
           </div>
+        </div>
+        <div class="row">
+          <div class="col-12 pl-1">
+            <h3>Data sources and database</h3>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-12 mt-4">
+            <p>
+              The plants have a SCADA system installed. The project started when a discovered a python library that allowed me to consume the SCADA data via HTTP request <br>
+              It was easy to understand that use this source alone was not enough. The team have already used inverter plataforms to check the performance. <br>
+              After a little bit of exploration I accomplished to consume this data via HTTP request too. Sadly, there wasn't a place to load all this data<br><br>
+              There was a MySQL database used for the web development team, so I asked permission to create a schema for my use case and then start the data modelling
+            </p>
+          </div>
+        </div>
+        <div class="row">
           <div class="col-12 mt-4">
             <p>
               Key-words: Data Engineering, Python, Airflow, MySQL, Power BI
@@ -117,7 +134,7 @@ https://www.tooplate.com/view/2115-marvel
             <div class="contact-form">
               <h2 class="mb-4">Interested to work together? Let's talk</h2>
 
-              <form action="" method="get">
+              <form id="form-email">
                 <div class="row">
                   <div class="col-lg-6 col-12">
                     <input type="text" class="form-control" name="name" placeholder="Your Name" id="name">
@@ -132,7 +149,7 @@ https://www.tooplate.com/view/2115-marvel
                   </div>
 
                   <div class="ml-lg-auto col-lg-5 col-12">
-                    <input type="submit" class="form-control submit-btn" value="Send Button">
+                    <input type="submit" class="form-control submit-btn" value="Send Button" id="send-btn">
                   </div>
                 </div>
               </form>
