@@ -18,7 +18,7 @@ body {
 }
 
 .small-text {
-  color: #5b5b5b;
+  color: #7e7e7e;
   font-size: 14px;
   font-weight: bold;
   padding: 8px 16px;
@@ -48,10 +48,10 @@ a:hover {
 }
 
 p {
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 300;
   line-height: 1.5;
-  color: #5b5b5b;
+  color: #7e7e7e;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -82,7 +82,7 @@ b, strong {
 
 .custom-btn {
   background: #eee;
-  color: #5b5b5b;
+  color: #7e7e7e;
   font-weight: bold;
   border-radius: 50px;
   padding: 13px 29px;
@@ -95,7 +95,7 @@ b, strong {
   color: #cc4af7;
 }
 .custom-btn.custom-btn-bg {
-  background: #51008a;
+  background: #932ab6;
   color: #ffffff;
 }
 .custom-btn.custom-btn-bg:hover {
@@ -414,7 +414,7 @@ b, strong {
   height: 8px;
 }
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span {
-  background: #5b5b5b;
+  background: #7e7e7e;
 }
 
 .google-map iframe {
