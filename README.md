@@ -1,13 +1,13 @@
 ## Hello, I'm Airton Oliveira!
 
-*Bachelor in Electrical Engineering - Emphasis in Computer Science at the Polytechnic School of the University of São Paulo (USP) <br>
-Actually I work at Athon as a Data Analyst in O&M area.<br>*
+This is my portfolio!<br>
+Here is the place where I talk about my experience and projects <br>
+You can access the page via link: https://airtonsz.github.io/portfolio
 
-## Introduction
-
-Passionate about technology since I was a child. <br>
-I found myself in computing and I intend to contribute to data management in the most diverse areas of systems development <br>
+If you got interested to talk or wanna know more about me,
+plese contact me via [Linkedin](https://linkedin.com/in/airtonszoliveira/) or email (airtonszoliveira@gmail.com)
 
 ## 📫 Social
-[![Linkedin: Airton de Souza Oliveira](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airton-de-souza-oliveira-a147a81a8/)
-
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/airtonszoliveira/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-CC4AF7?style=for-the-badge)](https://airtonsz.github.io/portfolio/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge)](mailto:airtonszoliveira@gmail.com)
